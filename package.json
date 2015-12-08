@@ -36,9 +36,5 @@
   },
   "peerDependencies": {
     "react": "^0.13.0"
-  },
-  "files": [
-    "lib/",
-    "README.md"
-  ]
+  }
 }
